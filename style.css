@@ -3,9 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-.carousel-inner img{
-    width: 100%;
-    height: 90vh;
+.carousel-item img{
+    /* width: 100%;
+    height: 60vh !important; */
+    border: 2px solid red;
 }
 .aboutimg{
     /* border: 2px solid red; */

@@ -36,6 +36,9 @@
     </div>
   </div>
 </nav>
+<!-- /////////////////////// -->
+<!-- <div class="container-fluid">
+  <div class="row"> -->
 
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
   <div class="carousel-indicators">
@@ -76,6 +79,8 @@
   </button>
 </div>
 
+<!-- </div>
+</div> -->
 <!-- //////////////////////////////////// -->
 <section class="my-5"> 
       <div class="pb-5">
