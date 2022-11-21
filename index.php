@@ -37,8 +37,6 @@
   </div>
 </nav>
 <!-- /////////////////////// -->
-<!-- <div class="container-fluid">
-  <div class="row"> -->
 
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
   <div class="carousel-indicators">
@@ -79,8 +77,6 @@
   </button>
 </div>
 
-<!-- </div>
-</div> -->
 <!-- //////////////////////////////////// -->
 <section class="my-5"> 
       <div class="pb-5">
@@ -123,7 +119,7 @@
 </div>
     </div> -->
 
-    <div class="col col-lg-3 col-md-6 col-sm-12">
+    <div class="col col-lg-3 col-md-6 col-sm-12 d-flex justify-content-center">
     <div class="card" style="width: 18rem;">
   <img src="images/mobile app.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -134,7 +130,7 @@
 </div>
     </div>
 
-    <div class="col col-lg-3 col-md-6 col-sm-12">
+    <div class="col col-lg-3 col-md-6 col-sm-12 d-flex justify-content-center">
      <div class="card" style="width: 18rem;">
         <img src="images/mobile app.jpg" class="card-img-top" alt="...">
         <div class="card-body">
@@ -145,7 +141,7 @@
       </div>
     </div>
 
-    <div class="col col-lg-3 col-md-6 col-sm-12">
+    <div class="col col-lg-3 col-md-6 col-sm-12 d-flex justify-content-center">
      <div class="card" style="width: 18rem;">
         <img src="images/mobile app.jpg" class="card-img-top" alt="...">
         <div class="card-body">
@@ -156,7 +152,7 @@
       </div>
     </div>
 
-    <div class="col col-lg-3 col-md-6 col-sm-12">
+    <div class="col col-lg-3 col-md-6 col-sm-12 d-flex justify-content-center">
      <div class="card" style="width: 18rem;">
         <img src="images/mobile app.jpg" class="card-img-top " alt="...">
         <div class="card-body">
@@ -179,27 +175,27 @@
       <div class="container-fluid">
         <div class="row">
            <div class="col col-lg-4 col-md-6 col-sm-12">
-             <img src="images/software.jpg" class="img-fluid pb-4"/>
+             <img src="images/business8.jpg" class="img-fluid pb-4"/>
            </div>
           
            <div class="col col-lg-4 col-md-6 col-sm-12">
-             <img src="images/software.jpg" class="img-fluid"/>
+             <img src="images/business8.jpg" class="img-fluid"/>
            </div>
            
            <div class="col col-lg-4 col-md-6 col-sm-12">
-             <img src="images/software.jpg" class="img-fluid"/>
+             <img src="images/business8.jpg" class="img-fluid"/>
            </div>
 
            <div class="col col-lg-4 col-md-6 col-sm-12">
-             <img src="images/software.jpg" class="img-fluid"/>
+             <img src="images/business8.jpg" class="img-fluid"/>
            </div>
 
            <div class="col col-lg-4 col-md-6 col-sm-12">
-              <img src="images/software.jpg" class="img-fluid"/>
+              <img src="images/business8.jpg" class="img-fluid"/>
            </div>
 
            <div class="col col-lg-4 col-md-6 col-sm-12">
-             <img src="images/software.jpg" class="img-fluid"/>
+             <img src="images/business8.jpg" class="img-fluid"/>
            </div>
         </div>
       </div>
